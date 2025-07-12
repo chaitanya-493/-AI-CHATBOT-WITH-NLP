@@ -28,3 +28,6 @@ Customer service bots for websites and apps.
 Voice assistant prototypes.
 FAQ bots in educational, healthcare, or e-commerce domains.
 Language learning tools for interactive vocabulary practice.
+
+**OUTPUT** :
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/becaf6d6-4c45-44e0-80c5-9bcc38151177" />
