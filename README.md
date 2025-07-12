@@ -31,3 +31,5 @@ Language learning tools for interactive vocabulary practice.
 
 **OUTPUT** :
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/becaf6d6-4c45-44e0-80c5-9bcc38151177" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/93aed3fd-f69b-4e9f-bea1-719472e3fefa" />
